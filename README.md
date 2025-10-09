@@ -1,5 +1,13 @@
 ## About Me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10)](https://github.com/emacsomancer/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10)](https://github.com/emacsomancer/github-readme-stats)-->
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+</picture>
 <!--
 **emacsomancer/emacsomancer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
