@@ -12,7 +12,9 @@ I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and Co
 I have experience in a number of languages, from BASIC to C to Python to Lua, but am particularly interested in Lisp/Lisp-family/Lisp-like languages, including especially [Common Lisp](https://github.com/CodyReichert/awesome-cl)†, (Guile)[https://www.gnu.org/software/guile/]‡ and other [Schemes](https://github.com/schemedoc/awesome-scheme), [Racket](https://racket-lang.org/), [Fennel](https://fennel-lang.org/), [Clojure](https://clojure.org/) and [ClojureScript](https://clojurescript.org/).
 
 †: Including the wonderful window mangage [StumpWM](https://stumpwm.github.io/), written in and endlessly extendable using Common Lisp.
+
 ‡: Including the Guile-centric OS, [Guix](https://guix.gnu.org/), which I have contributed packages to, and maintain [a channel of not-yet-upstreamed things](https://github.com/emacsomancer/guix-jittery-miscellany)...
+
 <!--
 <picture>
   <source
