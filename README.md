@@ -1,8 +1,8 @@
 ## About Me
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10)]
--->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10)]
+
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10&show_icons=true&theme=dark"
