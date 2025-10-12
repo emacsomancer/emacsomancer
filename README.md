@@ -19,7 +19,7 @@ I have experience in a number of languages, from BASIC to C to Python to Lua, bu
 <!--
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=10&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query&langs_count=9&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
 </picture>
