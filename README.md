@@ -6,7 +6,7 @@ Many of my current projects are involved with Emacs, but in general I am interes
 
 But I'm also just generally interested in getting things to do things (e.g., [make Emacs think some of its frames are quake-style drop-down terminals](https://github.com/emacsomancer/equake), or Mullvad Wireguard [VPN portals be corralled by Common Lisp within an systray icon](https://github.com/emacsomancer/volemad)) or implemeted (Linguistically-Typed) Lambda Calculus (`t`,`e`,`<e,t>`,`<e,<e,t>>` &c.) using the [Racket turnstile language module](https://docs.racket-lang.org/turnstile/) to make a DSL (see [Frege](https://github.com/emacsomancer/frege)).
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c++&langs_count=11)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,C++&langs_count=10)
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and Cognitive Science (MA, Johns Hopkins, 2004), and work especially on issues of formal semantics and its interaction with syntax, as well as language variation/change, formulaic language/templatic language, and quantity- and temporal-related particles. [See further: https://lambda-y.net ]
 
