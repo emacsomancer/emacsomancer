@@ -1,5 +1,5 @@
 ## About Me
-I do things with lambda calculus. Mostly on natural language. Mostly. Some of them are lispy things. 
+I do things with lambda calculus (sometimes on natural language, sometimes they are lispy things occasionally both), and shell scripts, and other formal languages, often dealing with messy interfaces.
 
 ![image](images/deeply-nested-representation-logo01.png)
 
