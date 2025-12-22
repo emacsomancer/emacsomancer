@@ -29,7 +29,8 @@ to [[https://github.com/emacsomancer/collaborative-writing-environment-emacs][co
 machines]], or have a [[https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/][clean, simple, and persistent IRC setup available via Emacs
 and mobile]].
 
-#+BEGIN_EXPORT html
+
+#+begin_src html
 <!--
 <picture>
   <source
@@ -37,7 +38,8 @@ and mobile]].
     media="(prefers-color-scheme: dark)"
   />
 </picture>
-#+END_EXPORT
+#+end_src
+
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and
 Cognitive Science (MA, Johns Hopkins, 2004), and work especially on issues of
