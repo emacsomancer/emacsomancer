@@ -30,7 +30,7 @@ machines]], or have a [[https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-
 and mobile]].
 
 
-#+begin_src html
+#+BEGIN_export html
 <!--
 <picture>
   <source
@@ -38,7 +38,7 @@ and mobile]].
     media="(prefers-color-scheme: dark)"
   />
 </picture>
-#+end_src
+#+END_export
 
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and
