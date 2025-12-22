@@ -30,7 +30,7 @@ machines]], or have a [[https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-
 and mobile]].
 
 #+caption: Top Langs
-[[https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10]]
+![[[[https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10]]]]
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and
 Cognitive Science (MA, Johns Hopkins, 2004), and work especially on issues of
