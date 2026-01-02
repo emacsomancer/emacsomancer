@@ -7,7 +7,13 @@ Many of my current projects are involved with Emacs, but in general I am interes
 
 But I'm also just generally interested in getting things to do things. E.g., [make Emacs think some of its frames are quake-style drop-down terminals](https://github.com/emacsomancer/equake), or automate having [full disk encryption on ZFS root on Void Linux](https://github.com/emacsomancer/full-zfs-and-full-luks-encryption-on-void-linux), or make Mullvad Wireguard [VPN portals be corralled by Common Lisp within an systray icon](https://github.com/emacsomancer/volemad), or implement a [(Linguistically-Typed) Lambda Calculus](https://github.com/emacsomancer/frege) (`t`,`e`,`<e,t>`,`<e,<e,t>>` &c.) using the Racket turnstile language module* to make a DSL, or have a clean way to [update various Guix System components painlessly in one go from Emacs](https://github.com/emacsomancer/emacs-guix-sudoloop-pull-ups), or have a [systray icon tracking available package updates on Void Linux](https://github.com/emacsomancer/vpnd), or be able to [collaboratively and interactively edit a single Emacs buffer on two different machines](https://github.com/emacsomancer/collaborative-writing-environment-emacs), or have a [clean, simple, and persistent IRC setup available via Emacs and mobile](https://babbagefiles.xyz/no-one-can-be-told-what-irc-is-you-have-to-logon-for-yourself/).
 
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emacsomancer&theme=aura_dark)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10)
+-->
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and Cognitive Science (MA, Johns Hopkins, 2004), and work especially on issues of formal semantics and its interaction with syntax, as well as language variation/change, formulaic language/templatic language, and quantity- and temporal-related particles. [For more on my academic training and papers/talks, see https://lambda-y.net ]
 
