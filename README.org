@@ -14,6 +14,8 @@ But I'm also just generally interested in getting things to do things.  E.g., [[
 
 @@markdown:![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emacsomancer&theme=aura_dark)@@
 
+@@html:<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/96f508a42ab5c454e9b84d6a090d42995ea1c4938b1a15908de703e355ddde50/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d656d6163736f6d616e636572267468656d653d617572615f6461726b"><img src="https://camo.githubusercontent.com/96f508a42ab5c454e9b84d6a090d42995ea1c4938b1a15908de703e355ddde50/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d656d6163736f6d616e636572267468656d653d617572615f6461726b" alt="Top Langs" data-canonical-src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emacsomancer&amp;theme=aura_dark" style="max-width: 100%;"></a>@@
+
 
 I have specialised advanced training in Linguistics (PhD, Illinois, 2011) and Cognitive Science (MA, Johns Hopkins, 2004), and work especially on issues of formal semantics and its interaction with syntax, as well as language variation/change, formulaic language/templatic language, and quantity- and temporal-related particles. [For more on my academic training and papers/talks, see https://lambda-y.net ]
 
