@@ -21,7 +21,7 @@ I have experience in a number of languages, from BASIC to C to Python to Lua, bu
 
 *: Racket Turnstile library: [https://docs.racket-lang.org/turnstile/](https://docs.racket-lang.org/turnstile/)
 
-†: Including the wonderful window mangage [StumpWM](https://stumpwm.github.io/), written in and endlessly extendable using Common Lisp.
+†: Including the wonderful window manager [StumpWM](https://stumpwm.github.io/), written in and endlessly extendable using Common Lisp.
 
 ‡: Including the Guile-centric OS, [Guix](https://guix.gnu.org/), which I have contributed packages to, and maintain [a channel of not-yet-upstreamed things](https://github.com/emacsomancer/guix-jittery-miscellany)...
 
