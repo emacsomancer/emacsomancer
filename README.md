@@ -9,9 +9,11 @@ But I'm also just generally interested in getting things to do things. E.g., [ma
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emacsomancer&theme=aura_dark)
 
+<!--
+seems broken....
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emacsomancer&hide=tree-sitter%20query,makefile,css,c%2B%2B,perl&langs_count=10)
 -->
 
